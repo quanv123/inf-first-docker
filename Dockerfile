@@ -1,3 +1,4 @@
+# Use debian image as base
 From debian:latest
 
 RUN apt-get update
